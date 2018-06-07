@@ -325,7 +325,7 @@ void main()
 
 #### 使用宏来操作不定参地址
 
-![va_list 使用](printf不定参.assets/va_list 使用.png)
+![va_list 使用](printf不定参.assets/va_list%20使用.png)
 
 > tips 之前一直在想如果是结构体一个成员传递是不是有对齐的问题。。。后来想起来这东西是值传递啊
 >
